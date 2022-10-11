@@ -1,4 +1,6 @@
 week3/Centralized_to_Federated/data/*
 week3/Femnist/data/*
+week4/FedBench/data/*
+week4/FedBench/leaf/*
 .idea/*
 .DS_store
